@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanthosh S</h1>
 <h3 align="center">A passionate Tech Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:linkedin.com/in/s-shanthosh-artificial-intelligence-and-data-science</h3>
 <p align="left">
 </p>
 
